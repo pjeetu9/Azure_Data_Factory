@@ -1,5 +1,5 @@
 {
-	"name": "pipeline2",
+	"name": "2_waitfor_5_sec",
 	"properties": {
 		"activities": [
 			{
